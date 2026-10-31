@@ -1,6 +1,7 @@
 <div align="center">
   
- <img width="330" height="340" alt="wifies2" src="https://github.com/user-attachments/assets/a1c1f626-67b2-453f-a6d4-ccfbc6518c48" />
+ <img width="330" height="340" alt="wifies2" src="![Uploading image.png…]()
+" />
 
 
 $\text{\color{#ab7ac2}  "my faith has prepared me, make peace with your God!"
